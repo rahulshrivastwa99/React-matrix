@@ -12,17 +12,11 @@ This is an interactive number grid game where players click on squares to fill t
 - Animated cell transition
 - Responsive design
 
-## Screenshots
-
-[You can add a screenshot of the game here]
-
 ## Game Rules
 
 1. The goal is to click on grid cells in a way that allows you to place numbers from 1 to 9 sequentially.
 2. Each cell turns green when clicked and shows its number.
 3. After all 9 cells are selected, the grid animates to orange.
-
-## Technical Details
 
 ### Component Structure
 
